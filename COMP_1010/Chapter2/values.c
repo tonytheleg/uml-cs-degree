@@ -18,7 +18,7 @@ int main(void)
     area = length * length;
 
     printf("The value of n is %d\n", n);
-    printf("The area of a square whose side length is %lf cm is %lf square cm.\n", length, area);
+    printf("The area of a square whose side length is %.2lf cm is %.2lf square cm.\n", length, area);
  
     return (0);
 }

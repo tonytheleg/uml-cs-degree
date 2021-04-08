@@ -4,6 +4,7 @@ Since I'm almost done with my Masters in Information Technology, I feel like the
 
 Not including any math classes, (because I've taken enough and at this point in my career its not going to make or break me) here is my curriculum:
 
+
 ```gherkin
 COMP.1010 Computing I 
 	Problem Solving & Program Design in C

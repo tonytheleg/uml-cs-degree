@@ -21,8 +21,6 @@ COMP.2010 Computing III
 	Absolute C++
 	ISBN: 9780133970784
 	Author: Savitch 
-	
-COMP.2030 Assembly Language (We'll see....)
 
 EECE.2650 Logic Design 
 	Fund of Digital Logic
@@ -44,7 +42,11 @@ COMP.2040 Computing IV
 	Author: Meyers 
 	
 COMP.3040 Foundations of Computer Science
-
+	Intro to Theory of Computation
+	Edition: 3rd
+    ISBN: 9781133187790
+    Author: Sipser
+    
 COMP.3050 Computer Architecture 
 	Computer Systems: Programmer's Perspective (w/out Access)
 	Edition: 3rd
